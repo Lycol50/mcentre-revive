@@ -4,7 +4,7 @@ Official Archival Repository for M Centre DLL's and its new application based on
 How to use:
 
 1. [Watch this video (If you have M Centres 4.0)](https://www.youtube.com/watch?v=8U_Sg1LTKNc&t=4s)
-2. Use the command line application on the release tab [Check Repository](https://github.com/Lycol50/mcentre-revive/tree/app)
+2. Follow this [app guide](https://github.com/Lycol50/mcentre-revive/tree/mcentre-app)
 
 How to submit DLL's for editing:
 Please email me at frizth_tatierra@informatics.edu.ph, and attach the following files on the email.
