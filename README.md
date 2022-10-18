@@ -9,6 +9,6 @@ How to use:
 How to submit DLL's for editing:
 Please email me at frizth_tatierra@informatics.edu.ph, and attach the following files on the email.
 1. C:\Windows\System32\Windows.ApplicationModel.Store.dll
-2. C:\Windows\SysWOW64\Windows.ApplicationModel.Store.dll
+2. C:\Windows\SysWOW64\Windows.ApplicationModel.Store.dll (Please rename this file to indicate that this is 32bit)
 
 after that, check back on this repository to get your modified dll's.
